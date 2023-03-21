@@ -1,0 +1,6 @@
+# Node modules used for development
+/node_modules
+
+# Environment variables
+.env
+.env.*
